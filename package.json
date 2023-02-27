@@ -1,0 +1,23 @@
+{
+  "name": "javascriptrepogithub",
+  "version": "1.0.0",
+  "description": "Este repositorio es para alojar los ejercicios del *Curso de JavaScript Básico* de open-bootcamp.com",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosrm22/javaScriptRepoGitHub.git"
+  },
+  "keywords": [
+    "open-bootcamp.com"
+  ],
+  "author": "Carlos Romero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlosrm22/javaScriptRepoGitHub/issues"
+  },
+  "homepage": "https://github.com/carlosrm22/javaScriptRepoGitHub#readme"
+}
